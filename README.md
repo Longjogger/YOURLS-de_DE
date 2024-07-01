@@ -1,10 +1,11 @@
-# **YOURLS** – Deutsche Übersetzung
+# **YOURLS** – Deutsche Übersetzung (in Arbeit)
 *(**YOURLS** – german translation)*
 
+Achtung! Noch in Arbeit!
 
 ## Version
 
-YOURLS **1.8**
+YOURLS **1.9**
 
 ## Installation
 
@@ -22,7 +23,7 @@ Idealerweise *forken* Sie dieses *Repository*, ändern Sie die Datei und erstell
 
 ## Credits
 
-Die Übersetzung wird gepflegt von [@DerSev](https://github.com/DerSev)
+Die Übersetzung wird gepflegt von [@Longjogger](https://github.com/Longjogger)
 
 ## Lizenz
 
